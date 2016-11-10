@@ -1,0 +1,10 @@
+runner/RunSuite.class
+utils/HttpMethodType.class
+rest/SingletonRestClient.class
+utils/PropertyFileReader.class
+models/Origin.class
+utils/TypeUtils.class
+rest/RestResponseHolders.class
+utils/HeaderUtils.class
+stepDefs/RestStepDefs.class
+rest/DataPatterns.class

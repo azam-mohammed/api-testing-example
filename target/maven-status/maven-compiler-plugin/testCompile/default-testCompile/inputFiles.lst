@@ -1,0 +1,10 @@
+/Users/azammohammed/hmrc-development-environment/api-testing-example/src/test/java/rest/DataPatterns.java
+/Users/azammohammed/hmrc-development-environment/api-testing-example/src/test/java/stepDefs/RestStepDefs.java
+/Users/azammohammed/hmrc-development-environment/api-testing-example/src/test/java/rest/RestResponseHolders.java
+/Users/azammohammed/hmrc-development-environment/api-testing-example/src/test/java/models/Origin.java
+/Users/azammohammed/hmrc-development-environment/api-testing-example/src/test/java/rest/SingletonRestClient.java
+/Users/azammohammed/hmrc-development-environment/api-testing-example/src/test/java/utils/PropertyFileReader.java
+/Users/azammohammed/hmrc-development-environment/api-testing-example/src/test/java/runner/RunSuite.java
+/Users/azammohammed/hmrc-development-environment/api-testing-example/src/test/java/utils/HttpMethodType.java
+/Users/azammohammed/hmrc-development-environment/api-testing-example/src/test/java/utils/TypeUtils.java
+/Users/azammohammed/hmrc-development-environment/api-testing-example/src/test/java/utils/HeaderUtils.java
